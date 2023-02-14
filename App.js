@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <DemoApp/>
+      <Text>chào mày</Text>
     </View>
   );
 }
